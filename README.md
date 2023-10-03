@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ayran Oliveira!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayranoliveira_?igshid=OGQ5ZDc2ODk2ZA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayran-oliveira-258499291/)
 
 ![Ayran GitHub stats](https://github-readme-stats.vercel.app/api?username=ayranoliveira1&show_icons=true&theme=radical)
