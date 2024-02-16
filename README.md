@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Ayran, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Ayran, um desenvolvedor web apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/ayranoliveira_"><img src="https://img.shields.io/badge/-ayranoliveira__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ayran-oliveira-258499291"><img src="https://img.shields.io/badge/-Ayran%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
