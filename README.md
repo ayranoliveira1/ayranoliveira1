@@ -18,11 +18,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
