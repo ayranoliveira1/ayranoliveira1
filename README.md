@@ -24,6 +24,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify&logoColor=E535AB)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
