@@ -18,13 +18,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js&logoColor=E535AB)
+![Next.js](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js&logoColor=fff)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify&logoColor=E535AB)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=fff)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
