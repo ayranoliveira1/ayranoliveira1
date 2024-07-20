@@ -1,8 +1,8 @@
 <h1>👋 &nbsp;Olá, eu sou o Ayran, um desenvolvedor FullStack apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/ayranoliveira_" target="_blant"><img src="https://img.shields.io/badge/-ayranoliveira__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ayran-oliveira-258499291" target="_blant><img src="https://img.shields.io/badge/-Ayran%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayranoliveira1@gmail.com" target="_blant><img src="https://img.shields.io/badge/-ayranoliveira1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayran-oliveira-258499291" target="_blant"><img src="https://img.shields.io/badge/-Ayran%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ayranoliveira1@gmail.com" target="_blant"><img src="https://img.shields.io/badge/-ayranoliveira1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
