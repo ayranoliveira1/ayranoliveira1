@@ -1,33 +1,73 @@
-<h1>👋 &nbsp;Olá, eu sou o Ayran, um desenvolvedor FullStack apaixonado pelo que faz!</h1>
+<h1 align="center">Olá, eu sou o Ayran 👋</h1>
+
 <p align="center">
-<a href="https://instagram.com/ayranoliveira_" target="_blank"><img src="https://img.shields.io/badge/-ayranoliveira__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ayran-oliveira-258499291" target="_blank"><img src="https://img.shields.io/badge/-Ayran%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayranoliveira1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ayranoliveira1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <b>Engenheiro de Software</b> · TypeScript, Node.js e React · Lima Duarte, MG
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayran-oliveira-258499291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ayran%20Oliveira-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ayranoliveira1@gmail.com"><img src="https://img.shields.io/badge/Email-ayranoliveira1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/ayranoliveira_" target="_blank"><img src="https://img.shields.io/badge/Instagram-ayranoliveira__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 13 anos de idade, quando queria criar um servidor privado do jogo que eu gostava na época, que se chamava Minecraft. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript (Node & React) para desenvolver aplicações.
+---
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+### 👨🏻‍💻 Sobre mim
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js&logoColor=fff)
+Escrevi minhas primeiras linhas de código aos 13 anos, para colocar no ar um servidor privado de Minecraft. Ver que eu
+podia mudar tudo nele só escrevendo código foi o momento em que decidi ser programador.
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interface, com foco em arquitetura limpa
+(SOLID, Clean Architecture e DDD), performance e código fácil de manter.
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=red)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify&logoColor=E535AB)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=fff)
+- 🚀 Construindo APIs com **NestJS** e **Fastify** e interfaces com **Next.js**
+- 📱 Explorando desenvolvimento **Android nativo** com Java
+- 💬 Pode falar comigo sobre arquitetura de software, TypeScript e projetos full stack
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+### 🛠 Tecnologias
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayranoliveira1&show_icons=true&theme=dracula)
+<p>
+  <b>Front-end</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind"/>
+</p>
+
+<p>
+  <b>Back-end e banco de dados</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres" alt="Node.js, NestJS, Prisma, PostgreSQL"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+
+<p>
+  <b>Mobile e outras linguagens</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,cs" alt="Java, Android Studio, C#"/>
+</p>
+
+<p>
+  <b>Ferramentas</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub, Vercel"/>
+</p>
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+| ------- | --------- | ----- |
+| [**Finance IA — API**](https://github.com/ayranoliveira1/finance-api) | API de finanças pessoais com Clean Architecture, SOLID e DDD. Autenticação JWT, pagamentos com Stripe e insights gerados com OpenAI. | NestJS · Prisma · Stripe · OpenAI |
+| [**Finance IA — Web**](https://github.com/ayranoliveira1/finance-ia-web) | Interface do Finance IA, responsiva e acessível, com cache e revalidação automáticos dos dados. | Next.js · Tailwind · ShadCN · React Query |
+| [**Barber Shop**](https://github.com/ayranoliveira1/barber-shop) · [demo](https://barber-shop-mauve.vercel.app) | Agendamento de barbearias com login Google e layout responsivo. | Next.js · Prisma · PostgreSQL · NextAuth |
+| [**Check API**](https://github.com/ayranoliveira1/check-api) | API de check-in em academias no estilo GymPass, com regras de acesso e busca de academias próximas. | Fastify · Prisma · JWT |
+| [**PokeLocation**](https://github.com/ayranoliveira1/pokelocation) | App Android de localização simulada com joystick flutuante, rotas, GPX/KML e automação por deep links. | Java · Android · OpenStreetMap |
+
+### 📊 Estatísticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayranoliveira1&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E&langs_count=8" alt="Linguagens mais usadas"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=ayranoliveira1&hide_border=true&theme=transparent&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+<p align="center">Aberto a novas oportunidades e parcerias. <a href="mailto:ayranoliveira1@gmail.com">Vamos conversar!</a></p>
