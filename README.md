@@ -21,7 +21,7 @@ Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interfac
 (SOLID, Clean Architecture e DDD), performance e código fácil de manter.
 
 - 🚀 Construindo APIs com **NestJS** e **Fastify** e interfaces com **Next.js**
-- 📱 Explorando desenvolvimento **Android nativo** com Java
+- 📱 Desenvolvendo o **PokeLocation**, app **Android nativo** em Java com back-end em **Go**
 - 💬 Pode falar comigo sobre arquitetura de software, TypeScript e projetos full stack
 
 ### 🛠 Tecnologias
@@ -33,7 +33,7 @@ Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interfac
 
 <p>
   <b>Back-end e banco de dados</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres" alt="Node.js, NestJS, Prisma, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,prisma,postgres,redis" alt="Node.js, NestJS, Go, Prisma, PostgreSQL, Redis"/>
   <br/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
@@ -48,7 +48,7 @@ Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interfac
 
 <p>
   <b>Ferramentas</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub, Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vercel" alt="Git, GitHub, Docker, Nginx, Vercel"/>
 </p>
 
 ### 📌 Projetos em destaque
@@ -57,9 +57,9 @@ Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interfac
 | ------- | --------- | ----- |
 | [**Finance IA — API**](https://github.com/ayranoliveira1/finance-api) | API de finanças pessoais com Clean Architecture, SOLID e DDD. Autenticação JWT, pagamentos com Stripe e insights gerados com OpenAI. | NestJS · Prisma · Stripe · OpenAI |
 | [**Finance IA — Web**](https://github.com/ayranoliveira1/finance-ia-web) | Interface do Finance IA, responsiva e acessível, com cache e revalidação automáticos dos dados. | Next.js · Tailwind · ShadCN · React Query |
-| [**Barber Shop**](https://github.com/ayranoliveira1/barber-shop) · [demo](https://barber-shop-mauve.vercel.app) | Agendamento de barbearias com login Google e layout responsivo. | Next.js · Prisma · PostgreSQL · NextAuth |
 | [**Check API**](https://github.com/ayranoliveira1/check-api) | API de check-in em academias no estilo GymPass, com regras de acesso e busca de academias próximas. | Fastify · Prisma · JWT |
-| [**PokeLocation**](https://github.com/ayranoliveira1/pokelocation) | App Android de localização simulada com joystick flutuante, rotas, GPX/KML e automação por deep links. | Java · Android · OpenStreetMap |
+| [**PokeLocation**](https://github.com/ayranoliveira1/pokelocation) | App Android de localização simulada com joystick flutuante, rotas e GPX/KML. Com conta: amigos no mapa, chat com criptografia ponta a ponta e Pokémon do PoGo Coordinates no mapa e no joystick, com alertas por push. | Java · Android · OpenStreetMap · Signal |
+| **PokeLocation Server** (privado) | Back-end do PokeLocation: contas, amigos, chat com criptografia ponta a ponta (Signal) por WebSocket, posição dos amigos em tempo real, push e proxy do PoGo Coordinates com cache. Deploy automático com volta se a subida falhar. | Go · PostgreSQL · Redis · Docker |
 
 ### 📊 Estatísticas
 
