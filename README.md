@@ -64,7 +64,7 @@ Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interfac
 ### 📊 Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayranoliveira1&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E&langs_count=8" alt="Linguagens mais usadas"/>
+  <img height="165" src="langs.svg" alt="Linguagens mais usadas"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=ayranoliveira1&hide_border=true&theme=transparent&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
