@@ -59,7 +59,7 @@ Hoje desenvolvo aplicações web de ponta a ponta, do banco de dados à interfac
 | [**Finance IA — Web**](https://github.com/ayranoliveira1/finance-ia-web) | Interface do Finance IA, responsiva e acessível, com cache e revalidação automáticos dos dados. | Next.js · Tailwind · ShadCN · React Query |
 | [**Check API**](https://github.com/ayranoliveira1/check-api) | API de check-in em academias no estilo GymPass, com regras de acesso e busca de academias próximas. | Fastify · Prisma · JWT |
 | [**PokeLocation**](https://github.com/ayranoliveira1/pokelocation) | App Android de localização simulada com joystick flutuante, rotas e GPX/KML. Com conta: amigos no mapa, chat com criptografia ponta a ponta e Pokémon do PoGo Coordinates no mapa e no joystick, com alertas por push. | Java · Android · OpenStreetMap · Signal |
-| **PokeLocation Server** (privado) | Back-end do PokeLocation: contas, amigos, chat com criptografia ponta a ponta (Signal) por WebSocket, posição dos amigos em tempo real, push e proxy do PoGo Coordinates com cache. Deploy automático com volta se a subida falhar. | Go · PostgreSQL · Redis · Docker |
+| [**PokeLocation Server**](https://github.com/ayranoliveira1/pokelocation-server) | Back-end do PokeLocation: contas, amigos, chat com criptografia ponta a ponta (Signal) por WebSocket, posição dos amigos em tempo real, push e proxy do PoGo Coordinates com cache. Deploy automático com volta se a subida falhar. | Go · PostgreSQL · Redis · Docker |
 
 ### 📊 Estatísticas
 
