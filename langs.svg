@@ -2,21 +2,21 @@
 <style>.t{font:600 16px "Segoe UI",Ubuntu,sans-serif;fill:#2F81F7}.l{font:400 12px "Segoe UI",Ubuntu,sans-serif;fill:#8B949E}</style>
 <text x="25" y="32" class="t">Linguagens mais usadas</text>
 <clipPath id="r"><rect x="25" y="47" width="300" height="8" rx="4"/></clipPath><g clip-path="url(#r)">
-<rect x="25.00" y="47" width="165.05" height="8" fill="#3178c6"/>
-<rect x="189.55" y="47" width="84.87" height="8" fill="#b07219"/>
-<rect x="273.92" y="47" width="26.92" height="8" fill="#00ADD8"/>
-<rect x="300.34" y="47" width="11.37" height="8" fill="#e34c26"/>
-<rect x="311.21" y="47" width="7.80" height="8" fill="#f1e05a"/>
-<rect x="318.51" y="47" width="5.27" height="8" fill="#663399"/>
-<rect x="323.27" y="47" width="1.82" height="8" fill="#178600"/>
+<rect x="25.00" y="47" width="165.02" height="8" fill="#3178c6"/>
+<rect x="189.52" y="47" width="84.95" height="8" fill="#b07219"/>
+<rect x="273.98" y="47" width="26.88" height="8" fill="#00ADD8"/>
+<rect x="300.36" y="47" width="11.36" height="8" fill="#e34c26"/>
+<rect x="311.22" y="47" width="7.79" height="8" fill="#f1e05a"/>
+<rect x="318.51" y="47" width="5.26" height="8" fill="#663399"/>
+<rect x="323.28" y="47" width="1.82" height="8" fill="#178600"/>
 <rect x="324.60" y="47" width="0.90" height="8" fill="#89e051"/>
 </g>
 <circle cx="30" cy="76" r="5" fill="#3178c6"/>
-<text x="41" y="80" class="l">TypeScript 54.85%</text>
+<text x="41" y="80" class="l">TypeScript 54.84%</text>
 <circle cx="190" cy="76" r="5" fill="#b07219"/>
-<text x="201" y="80" class="l">Java 28.12%</text>
+<text x="201" y="80" class="l">Java 28.15%</text>
 <circle cx="30" cy="100" r="5" fill="#00ADD8"/>
-<text x="41" y="104" class="l">Go 8.81%</text>
+<text x="41" y="104" class="l">Go 8.79%</text>
 <circle cx="190" cy="100" r="5" fill="#e34c26"/>
 <text x="201" y="104" class="l">HTML 3.62%</text>
 <circle cx="30" cy="124" r="5" fill="#f1e05a"/>
