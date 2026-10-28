@@ -2,8 +2,8 @@
 <style>.t{font:600 16px "Segoe UI",Ubuntu,sans-serif;fill:#2F81F7}.l{font:400 12px "Segoe UI",Ubuntu,sans-serif;fill:#8B949E}</style>
 <text x="25" y="32" class="t">Linguagens mais usadas</text>
 <clipPath id="r"><rect x="25" y="47" width="300" height="8" rx="4"/></clipPath><g clip-path="url(#r)">
-<rect x="25.00" y="47" width="165.02" height="8" fill="#3178c6"/>
-<rect x="189.52" y="47" width="84.95" height="8" fill="#b07219"/>
+<rect x="25.00" y="47" width="165.03" height="8" fill="#3178c6"/>
+<rect x="189.53" y="47" width="84.95" height="8" fill="#b07219"/>
 <rect x="273.98" y="47" width="26.88" height="8" fill="#00ADD8"/>
 <rect x="300.36" y="47" width="11.36" height="8" fill="#e34c26"/>
 <rect x="311.22" y="47" width="7.79" height="8" fill="#f1e05a"/>
