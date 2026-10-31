@@ -2,27 +2,27 @@
 <style>.t{font:600 16px "Segoe UI",Ubuntu,sans-serif;fill:#2F81F7}.l{font:400 12px "Segoe UI",Ubuntu,sans-serif;fill:#8B949E}</style>
 <text x="25" y="32" class="t">Linguagens mais usadas</text>
 <clipPath id="r"><rect x="25" y="47" width="300" height="8" rx="4"/></clipPath><g clip-path="url(#r)">
-<rect x="25.00" y="47" width="165.03" height="8" fill="#3178c6"/>
-<rect x="189.53" y="47" width="84.95" height="8" fill="#b07219"/>
-<rect x="273.98" y="47" width="26.88" height="8" fill="#00ADD8"/>
-<rect x="300.36" y="47" width="11.36" height="8" fill="#e34c26"/>
-<rect x="311.22" y="47" width="7.79" height="8" fill="#f1e05a"/>
-<rect x="318.51" y="47" width="5.26" height="8" fill="#663399"/>
-<rect x="323.28" y="47" width="1.82" height="8" fill="#178600"/>
+<rect x="25.00" y="47" width="164.11" height="8" fill="#3178c6"/>
+<rect x="188.61" y="47" width="85.91" height="8" fill="#b07219"/>
+<rect x="274.02" y="47" width="26.98" height="8" fill="#00ADD8"/>
+<rect x="300.50" y="47" width="11.30" height="8" fill="#e34c26"/>
+<rect x="311.30" y="47" width="7.75" height="8" fill="#f1e05a"/>
+<rect x="318.55" y="47" width="5.24" height="8" fill="#663399"/>
+<rect x="323.29" y="47" width="1.81" height="8" fill="#178600"/>
 <rect x="324.60" y="47" width="0.90" height="8" fill="#89e051"/>
 </g>
 <circle cx="30" cy="76" r="5" fill="#3178c6"/>
-<text x="41" y="80" class="l">TypeScript 54.84%</text>
+<text x="41" y="80" class="l">TypeScript 54.54%</text>
 <circle cx="190" cy="76" r="5" fill="#b07219"/>
-<text x="201" y="80" class="l">Java 28.15%</text>
+<text x="201" y="80" class="l">Java 28.47%</text>
 <circle cx="30" cy="100" r="5" fill="#00ADD8"/>
-<text x="41" y="104" class="l">Go 8.79%</text>
+<text x="41" y="104" class="l">Go 8.83%</text>
 <circle cx="190" cy="100" r="5" fill="#e34c26"/>
-<text x="201" y="104" class="l">HTML 3.62%</text>
+<text x="201" y="104" class="l">HTML 3.60%</text>
 <circle cx="30" cy="124" r="5" fill="#f1e05a"/>
-<text x="41" y="128" class="l">JavaScript 2.43%</text>
+<text x="41" y="128" class="l">JavaScript 2.42%</text>
 <circle cx="190" cy="124" r="5" fill="#663399"/>
-<text x="201" y="128" class="l">CSS 1.59%</text>
+<text x="201" y="128" class="l">CSS 1.58%</text>
 <circle cx="30" cy="148" r="5" fill="#178600"/>
 <text x="41" y="152" class="l">C# 0.44%</text>
 <circle cx="190" cy="148" r="5" fill="#89e051"/>
